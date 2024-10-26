@@ -1,7 +1,5 @@
 # Rule Engine with AST
  
-# Weather Monitoring
-
 
 
  Prerequisites:
