@@ -4,10 +4,14 @@
 
 
 
- Prerequisites
+ Prerequisites:
+ 
 Java 11 or higher
+
 Maven (for Spring Boot project management)
+
 Node.js and npm (for React)
+
 MySQL (optional if using persistent storage, or H2 for in-memory storage)
 
 
